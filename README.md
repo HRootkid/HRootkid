@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛡️ Security Analyst | Web • Mobile • API • Thick Client<br>🔬 Reverse Engineering & Vulnerability Research<br>💥 Currently learning exploit development<br>🏴‍☠️ CTF player in spare time<br>✍️ Writing about things I create and learn<br>🌱 Let’s grow together and secure the digital world
+👋 Hey, I’m a Rootkid/Triblade_Z3r0<br><br>🔭 Currently working on:<br>Security testing for Web, Mobile, APIs, and Thick Client apps, digging into vulnerabilities and understanding how real attacks work.<br><br>👯 Open to collaborating on:<br>Security research, bug bounties, CTFs, and hands-on projects around pentesting, exploit dev, and code review.<br><br>🤝 Looking for help with:<br>Going deeper into Active Directory attacks, cloud security, reverse engineering, and building better exploits.<br><br>🌱 Currently learning:<br>Active Directory & attack paths<br>Cloud security basics (AWS / Azure)<br>Reverse engineering & binaries<br>Source code review<br>Exploit development<br><br>💬 Ask me about:<br>Web, API, Mobile & Thick Client testing, OWASP Top 10, auth issues, logic bugs, and pentesting workflows.<br><br>⚡ Fun fact:<br>I like breaking things just to figure out how to secure them better 🔐😄
 
 
 ## 🌐 Socials:
